@@ -1,0 +1,126 @@
+<html>
+
+
+<HEAD>
+     <TITLE>l'école des mines de marrakech</TITLE>
+   <LINK rel="stylesheet" type="text/css" href="mahfoudi.css"></LINK>
+
+</HEAD>
+
+<BODY bgcolor="#F7F7F3">
+<center><div align="left"><IMG SRC="imm.jpeg" width="100" border="3"></div>
+
+
+
+<marquee bgcolor="orange"><strong><FONT size="6"> <font color="blue">Nous sommes heureux pour votre visite</FONT></strong></marquee><br><BR><HR>
+
+      
+<CENTER><TABLE border="3"><TR border="2">
+    <TD onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><a href="projet informatique (2).accdb" ><STRONG><font color="black">pour plus d'informations <font color="red">cliquez-ici </font></font></STRONG></a></TD></TR></TABLE></CENTER>
+<hr color="orange">
+ 
+
+<CENTER><form><TABLE border=1 width=1100 height=25>
+  <h2><NAV>
+    <TR><UL>
+    <TD bgcolor="black"><STRONG><U><CENTER><a href="mahfoudi.html"><FONT font color="white">Accueil</CENTER></u></STRONG></TD>
+    <TD bgcolor="black"><STRONG><U><CENTER><FONT font color="white">EMM</CENTER></u></TD>
+    <TD bgcolor="black"><STRONG><U><CENTER><FONT font color="white">l'administration</CENTER></u></STRONG></TD>
+    <TD bgcolor="black"><STRONG><U><CENTER><FONT font color="white">départments</CENTER></u></STRONG></TD>
+    <TD bgcolor="black"><STRONG><U><CENTER><FONT font color="white">les etudiants</CENTER></u></STRONG></TD>
+    <TD bgcolor="black"><STRONG><U><CENTER><a href="contact.html"><FONT font color="white">contact</a></CENTER></u></STRONG></TD>
+    </UL></TR>
+  </NAV></h2>
+
+  <TR><UL>
+    <TD></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="presentation.html">presentation</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="l'organigramme.html">l'organigramme</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="lesoptions.html">les options</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="OMCE.html">OMCE</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="contact.html">contact</a></LI></TD>
+    </UL></TR>
+
+    <TR><UL>
+    <TD></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="chiffrescles.html">chiffre clés</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="service.html">service</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="staged'initiationetpfe.html">stage d'initiation et PFE</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="OEME.html">OEME</a></LI></TD>
+    <TD></TD>
+    </UL></TR>
+
+    <TR><UL>
+    <TD></TD>
+    <TD></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="inertnat.html">l'internat</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="visteetformationcon.html">visites et formations continu</a></LI></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="OGAE.html">OGAE</a></LI></TD>
+    <TD></TD>
+    </UL></TR>
+
+    <TR><UL>
+    <TD></TD>
+    <TD></TD>
+    <TD></TD>
+    <TD></TD>
+    <TD  onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><LI><a href="OCIE.html">OCIE</a></LI></TD>
+    <TD></TD>
+    </UL></TR>
+    
+
+</TABLE>
+</form></CENTER>
+    <HR color="black" size="15">
+        <CENTER><marquee> <IMG SRC="20190201_105103.jpg" width="500" border="2"> <IMG SRC="IMG-20171208-WA0003.jpg" width="325" border="2"> <IMG SRC="20190219_123943.jpg" width="500" border="2"></marquee></CENTER>
+   
+
+
+
+<CENTER><TABLE border="3"><TR border="2">
+    <TD onMouseOver="this.bgColor='aqua'"
+      onMouseOut="this.bgColor='lime'"><a href="http://www.emm.ac.ma"><STRONG><font color="black">cliquez ici pour entrée dans le site de<font color="red"> IMM</font></font></STRONG></a></TD></TR></TABLE></CENTER>
+<HR font color="aqua" size="6">
+
+	<center><video src="az.mp4" controls width="600" border="4"></video></center><BR>
+<P>L’Ecole des Mines de Marrakech est un Etablissement Public de Formation, rattaché au Ministère de l’Energie et des Mines. Il est créé par décret n°2-77-91 du 26 rabia II 1397 (15 avril 1977). Il est régi en Service de l’Etat Géré de Manière Autonome (SEGMA).
+
+En application des dispositions du décret n°2-93-262 du 8 septembre 1993, modifiant et complétant le décret n°2-86-325 du 9 novembre 1987, promulguant le statut général des établissements de formation professionnelle, un arrêté du ministère de l’Energie et des Mines n°4213/94 du 10 janvier 1994 créa l’Institut des Mines de Marrakech, en remplacement de l’Ecole des Mines de Marrakech.
+Cet Institut a pour mission la formation, en deux années,  de Techniciens Spécialisés (Bac + 2) dans les quatre filières suivantes : 
+<BR>
+  <OL>
+<TD><LI><font color="#0000FF"><STRONG> mines et carrieres</STRONG></font></LI></TD>
+<TD><LI><font color="#B9B420"><STRONG> chmie industrielle</STRONG></font></LI></TD>
+<TD><LI><font color="#20B95F"><STRONG> électromecanique</STRONG></font></LI></TD>
+<TD><LI><font color="#D62D47"><STRONG> géologie appliquée</STRONG></font></LI></td>
+	</OL>
+</tr></P>
+<CENTER><IMG SRC="Moroccan-metallogeny.jpg" width="800"></CENTER>
+
+
+
+
+
+</BODY>
+
+
+
+
+
+
+
+</html>
